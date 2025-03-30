@@ -1,0 +1,316 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Apple iPhone 15 Pro",
+      "product_image": "https://example.com/iphone15pro.jpg",
+      "category": "Smartphones",
+      "price": 999.99,
+      "description": "Apple iPhone 15 Pro with A17 Bionic chip, 6.1-inch OLED display.",
+      "Specification": {
+        "Processor": "A17 Bionic",
+        "Display": "6.1-inch OLED",
+        "RAM": "8GB",
+        "Storage": "256GB"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S24 Ultra",
+      "product_image": "https://example.com/galaxys24ultra.jpg",
+      "category": "Smartphones",
+      "price": 1199.99,
+      "description": "Samsung Galaxy S24 Ultra with Snapdragon 8 Gen 3, 200MP Camera.",
+      "Specification": {
+        "Processor": "Snapdragon 8 Gen 3",
+        "Display": "6.8-inch Dynamic AMOLED",
+        "RAM": "12GB",
+        "Storage": "512GB"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 3,
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://example.com/sonywh1000xm5.jpg",
+      "category": "Headphones",
+      "price": 399.99,
+      "description": "Sony WH-1000XM5 Noise Cancelling Wireless Headphones.",
+      "Specification": {
+        "Battery Life": "30 Hours",
+        "Connectivity": "Bluetooth 5.2",
+        "Noise Cancelling": "Yes"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 4,
+      "product_title": "Apple MacBook Pro M2",
+      "product_image": "https://example.com/macbookpro.jpg",
+      "category": "Laptops",
+      "price": 1999.99,
+      "description": "Apple MacBook Pro with M2 chip, 16GB RAM, 512GB SSD.",
+      "Specification": {
+        "Processor": "Apple M2",
+        "Display": "14-inch Retina",
+        "RAM": "16GB",
+        "Storage": "512GB SSD"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 5,
+      "product_title": "ASUS ROG Strix Gaming Laptop",
+      "product_image": "https://example.com/asusrogstrix.jpg",
+      "category": "Laptops",
+      "price": 1499.99,
+      "description": "ASUS ROG Strix G16 Gaming Laptop with RTX 4070, 32GB RAM.",
+      "Specification": {
+        "Processor": "Intel i9-13980HX",
+        "Display": "16-inch FHD 165Hz",
+        "RAM": "32GB",
+        "Storage": "1TB SSD",
+        "GPU": "NVIDIA RTX 4070"
+      },
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": 6,
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://example.com/galaxywatch5.jpg",
+      "category": "Wearables",
+      "price": 349.99,
+      "description": "Samsung Galaxy Watch 5 with AMOLED display and health tracking.",
+      "Specification": {
+        "Display": "1.4-inch AMOLED",
+        "Battery Life": "40 Hours",
+        "Waterproof": "Yes"
+      },
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 7,
+      "product_title": "Dell XPS 15",
+      "product_image": "https://example.com/dellxps15.jpg",
+      "category": "Laptops",
+      "price": 1899.99,
+      "description": "Dell XPS 15 with Intel i7, 16GB RAM, 512GB SSD.",
+      "Specification": {
+        "Processor": "Intel i7-13700H",
+        "Display": "15.6-inch OLED",
+        "RAM": "16GB",
+        "Storage": "512GB SSD"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 8,
+      "product_title": "Sony PlayStation 5",
+      "product_image": "https://example.com/ps5.jpg",
+      "category": "Gaming",
+      "price": 499.99,
+      "description": "Sony PlayStation 5 with 825GB SSD and DualSense Controller.",
+      "Specification": {
+        "Processor": "Custom AMD Zen 2",
+        "GPU": "Custom RDNA 2",
+        "Storage": "825GB SSD"
+      },
+      "availability": true,
+      "rating": 5.0
+    },
+    {
+      "product_id": 9,
+      "product_title": "Samsung 55-inch QLED 4K TV",
+      "product_image": "https://example.com/samsungqled.jpg",
+      "category": "Television",
+      "price": 899.99,
+      "description": "Samsung 55-inch QLED 4K Smart TV with Quantum HDR.",
+      "Specification": {
+        "Display": "55-inch QLED",
+        "Resolution": "4K Ultra HD",
+        "Refresh Rate": "120Hz"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 10,
+      "product_title": "Canon EOS R6",
+      "product_image": "https://example.com/canoneosr6.jpg",
+      "category": "Cameras",
+      "price": 2499.99,
+      "description": "Canon EOS R6 Mirrorless Camera with 20MP Sensor and 4K Video.",
+      "Specification": {
+        "Sensor": "20MP Full-frame CMOS",
+        "Video": "4K UHD 60fps",
+        "Lens Mount": "RF Mount"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+  
+    {
+      "product_id": 11,
+      "product_title": "Apple iPhone 15 Pro",
+      "product_image": "https://example.com/iphone15pro.jpg",
+      "category": "Smartphones",
+      "price": 999.99,
+      "description": "Apple iPhone 15 Pro with A17 Bionic chip, 6.1-inch OLED display.",
+      "Specification": {
+        "Processor": "A17 Bionic",
+        "Display": "6.1-inch OLED",
+        "RAM": "8GB",
+        "Storage": "256GB"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 12,
+      "product_title": "Samsung Galaxy S24 Ultra",
+      "product_image": "https://example.com/galaxys24ultra.jpg",
+      "category": "Smartphones",
+      "price": 1199.99,
+      "description": "Samsung Galaxy S24 Ultra with Snapdragon 8 Gen 3, 200MP Camera.",
+      "Specification": {
+        "Processor": "Snapdragon 8 Gen 3",
+        "Display": "6.8-inch Dynamic AMOLED",
+        "RAM": "12GB",
+        "Storage": "512GB"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 13,
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://example.com/sonywh1000xm5.jpg",
+      "category": "Headphones",
+      "price": 399.99,
+      "description": "Sony WH-1000XM5 Noise Cancelling Wireless Headphones.",
+      "Specification": {
+        "Battery Life": "30 Hours",
+        "Connectivity": "Bluetooth 5.2",
+        "Noise Cancelling": "Yes"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 14,
+      "product_title": "Apple MacBook Pro M2",
+      "product_image": "https://example.com/macbookpro.jpg",
+      "category": "Laptops",
+      "price": 1999.99,
+      "description": "Apple MacBook Pro with M2 chip, 16GB RAM, 512GB SSD.",
+      "Specification": {
+        "Processor": "Apple M2",
+        "Display": "14-inch Retina",
+        "RAM": "16GB",
+        "Storage": "512GB SSD"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 15,
+      "product_title": "ASUS ROG Strix Gaming Laptop",
+      "product_image": "https://example.com/asusrogstrix.jpg",
+      "category": "Laptops",
+      "price": 1499.99,
+      "description": "ASUS ROG Strix G16 Gaming Laptop with RTX 4070, 32GB RAM.",
+      "Specification": {
+        "Processor": "Intel i9-13980HX",
+        "Display": "16-inch FHD 165Hz",
+        "RAM": "32GB",
+        "Storage": "1TB SSD",
+        "GPU": "NVIDIA RTX 4070"
+      },
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": 16,
+      "product_title": "Logitech MX Master 3S",
+      "product_image": "https://example.com/mxmaster3s.jpg",
+      "category": "Accessories",
+      "price": 99.99,
+      "description": "Logitech MX Master 3S Advanced Wireless Mouse.",
+      "Specification": {
+        "Sensor": "Darkfield 4000 DPI",
+        "Connectivity": "Bluetooth & USB",
+        "Battery Life": "70 Days"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 17,
+      "product_title": "Dell XPS 15",
+      "product_image": "https://example.com/dellxps15.jpg",
+      "category": "Laptops",
+      "price": 1899.99,
+      "description": "Dell XPS 15 with Intel i7, 16GB RAM, 512GB SSD.",
+      "Specification": {
+        "Processor": "Intel i7-13700H",
+        "Display": "15.6-inch OLED",
+        "RAM": "16GB",
+        "Storage": "512GB SSD"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 18,
+      "product_title": "Sony PlayStation 5",
+      "product_image": "https://example.com/ps5.jpg",
+      "category": "Gaming",
+      "price": 499.99,
+      "description": "Sony PlayStation 5 with 825GB SSD and DualSense Controller.",
+      "Specification": {
+        "Processor": "Custom AMD Zen 2",
+        "GPU": "Custom RDNA 2",
+        "Storage": "825GB SSD"
+      },
+      "availability": true,
+      "rating": 5.0
+    },
+    {
+      "product_id": 19,
+      "product_title": "Samsung 55-inch QLED 4K TV",
+      "product_image": "https://example.com/samsungqled.jpg",
+      "category": "Television",
+      "price": 899.99,
+      "description": "Samsung 55-inch QLED 4K Smart TV with Quantum HDR.",
+      "Specification": {
+        "Display": "55-inch QLED",
+        "Resolution": "4K Ultra HD",
+        "Refresh Rate": "120Hz"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 20,
+      "product_title": "Bose QuietComfort Earbuds II",
+      "product_image": "https://example.com/boseearbuds.jpg",
+      "category": "Headphones",
+      "price": 279.99,
+      "description": "Bose QuietComfort Earbuds II with Active Noise Cancelling.",
+      "Specification": {
+        "Battery Life": "24 Hours",
+        "Connectivity": "Bluetooth 5.3",
+        "Water Resistance": "IPX4"
+      },
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+    

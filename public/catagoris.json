@@ -1,0 +1,36 @@
+ [
+      {
+        "id": 1,
+        "name": "Smartphones"
+      },
+      {
+        "id": 2,
+        "name": "Laptops"
+      },
+      {
+        "id": 3,
+        "name": "Headphones"
+      },
+      {
+        "id": 4,
+        "name": "Accessories"
+      },
+      {
+        "id": 5,
+        "name": "Wearables"
+      },
+      {
+        "id": 6,
+        "name": "Gaming"
+      },
+      {
+        "id": 7,
+        "name": "Television"
+      },
+      {
+        "id": 8,
+        "name": "Cameras"
+      }
+    ]
+ 
+   
