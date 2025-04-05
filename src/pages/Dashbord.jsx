@@ -7,6 +7,7 @@ export default function Dashbord() {
   console.log(history)
   return (
   <div>
+    
     {
       history.map(his=><DashbordCard his={his}></DashbordCard>)
     }

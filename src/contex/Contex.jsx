@@ -3,6 +3,7 @@ export const Dashbordcontex = createContext(null)
 
 export default function Contex({children}) {
     const [history , sethistory] = useState([])
+    const [favorite, setfavorite] =useState([])
     const handleaddgajects = (detels) => {
         
 
@@ -12,10 +13,19 @@ export default function Contex({children}) {
        
 
     }
+    
+      const handleFavorute = (detels)=>{
+        setfavorite ([...favorite,detels])
+        console.log(favorite)
+      }
+    
   const  allvalue={
     handleaddgajects,
     history,
-    sethistory
+    sethistory,
+    setfavorite,
+    favorite,
+    handleFavorute
     }
   return (
     <Dashbordcontex.Provider value={allvalue}>

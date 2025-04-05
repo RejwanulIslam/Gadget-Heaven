@@ -4,7 +4,8 @@ export default function DashbordCard({his}) {
     const { product_id, product_title, product_image, category, price, description } = his
 
   return (
-    <div>  <div>
+    <div> 
+       <div>
       
     <div className="card card-compact w-80 bg-base-100 shadow-xl">
       <figure><img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" /></figure>
@@ -20,6 +21,7 @@ export default function DashbordCard({his}) {
         
       </div>
     </div>
-      </div></div>
+      </div>
+      </div>
   )
 }

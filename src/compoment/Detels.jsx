@@ -1,9 +1,10 @@
 import React, { createContext, useContext, useEffect, useState } from 'react'
 import { useLoaderData, useParams } from 'react-router-dom'
 import { Dashbordcontex } from '../contex/Contex'
+import { MdFavorite } from 'react-icons/md'
 
 export default function Detels() {
-const {handleaddgajects, history}=useContext(Dashbordcontex)
+const {handleaddgajects,handleFavorute, history}=useContext(Dashbordcontex)
 console.log(history)
     const [detels, setdetels] = useState({})
     const { product_id, product_title, product_image, category, price, description } = detels
@@ -33,6 +34,7 @@ console.log(history)
                     <div className="card-actions justify-end">
 
                         <button onClick={() => handleaddgajects(detels)} className="btn btn-primary">Addcoffee</button>
+                        <button onClick={()=>handleFavorute(detels)}  className="btn btn-primary"><MdFavorite /></button>
 
                     </div>
 

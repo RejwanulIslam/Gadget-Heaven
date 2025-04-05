@@ -6,6 +6,8 @@ import Home from "../pages/Home";
 import GajectsCard from "../compoment/GajectsCard";
 import Detels from "../compoment/Detels";
 import Dashbord from "../pages/Dashbord";
+import MainDashbord from "../pages/MainDashbord";
+import Favorite from "../compoment/Favorite";
 
 
 
@@ -46,10 +48,24 @@ const route = createBrowserRouter([
 
             },
             {
-                path:"/dashbord",
-                element:<Dashbord></Dashbord>
+             path:"/maindashbord",
+             element:<MainDashbord></MainDashbord>,
+             children:[
+                {
+                   // path:"/maindashbord/dashbord",
+                    path:"/maindashbord/",
+                    element:<Dashbord></Dashbord>
+    
+                },
+                {
+                    path:"/maindashbord/favorite",
+                    element:<Favorite></Favorite>
+                }
 
-            }
+             ]
+
+            },
+           
         ]
 
     }

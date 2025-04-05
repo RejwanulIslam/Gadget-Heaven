@@ -13,7 +13,7 @@ export default function Card({ card }) {
       <Link to={`/detels/${product_id}`}>
       <div className="card-actions justify-end">
        
-        <button className="btn btn-primary">Buy Now</button>
+        <button className="btn btn-primary">View detels</button>
 
       </div>
       </Link>
