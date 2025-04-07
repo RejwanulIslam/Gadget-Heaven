@@ -10,15 +10,24 @@ export default function GajectsCard() {
   console.log(data)
   const [card, setcard] = useState([])
   console.log(card)
+ 
   
     useEffect(()=>{
+
+      
       
       if(catagory){
       const filterdByCatagory = [...data].filter(gajects => (gajects.category == catagory))
       setcard(filterdByCatagory)
       console.log('filterdByCatagory',filterdByCatagory)
+    
       
-    } else{
+    }
+
+   
+
+
+      else{
       setcard(data)
       console.log('card ok')
     }
@@ -32,6 +41,11 @@ export default function GajectsCard() {
   
   return (
     <div>
+      {
+         card.length == 0 ?`Data no fond`:``
+         
+        
+      }
     <div className='grid md:grid-cols-2 lg:grid-cols-4'>
       {
         card.map(card => <Card card={card}></Card>)

@@ -7,9 +7,11 @@ export default function Favorite() {
   return (
     <div>
         <h1 className='text-4xl'>favorite</h1>
+        <div className='grid md:grid-cols-2 lg:grid-cols-4'>
       {
         favorite.map(card => <Favoritecard card={card}></Favoritecard>)
       }
+      </div>
     </div>
   )
 }

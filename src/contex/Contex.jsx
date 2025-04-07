@@ -4,6 +4,8 @@ export const Dashbordcontex = createContext(null)
 export default function Contex({children}) {
     const [history , sethistory] = useState([])
     const [favorite, setfavorite] =useState([])
+    console.log(favorite)
+
     const handleaddgajects = (detels) => {
         
 
@@ -15,8 +17,9 @@ export default function Contex({children}) {
     }
     
       const handleFavorute = (detels)=>{
-        setfavorite ([...favorite,detels])
-        console.log(favorite)
+        const allfav =[...favorite, detels]
+        setfavorite (allfav)
+        console.log(allfav)
       }
     
   const  allvalue={

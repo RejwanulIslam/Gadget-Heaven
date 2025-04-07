@@ -2,7 +2,7 @@
     {
       "product_id": 1,
       "product_title": "Apple iPhone 15 Pro",
-      "product_image": "https://example.com/iphone15pro.jpg",
+      "product_image": "https://i.ibb.co.com/xtN4nfbq/elegant-smartphone-composition-2.jpg",
       "category": "Smartphones",
       "price": 999.99,
       "description": "Apple iPhone 15 Pro with A17 Bionic chip, 6.1-inch OLED display.",
@@ -18,7 +18,7 @@
     {
       "product_id": 2,
       "product_title": "Samsung Galaxy S24 Ultra",
-      "product_image": "https://example.com/galaxys24ultra.jpg",
+      "product_image": "https://i.ibb.co.com/B2spT8p4/elegant-smartphone-composition-1.jpg",
       "category": "Smartphones",
       "price": 1199.99,
       "description": "Samsung Galaxy S24 Ultra with Snapdragon 8 Gen 3, 200MP Camera.",
@@ -34,7 +34,7 @@
     {
       "product_id": 3,
       "product_title": "Sony WH-1000XM5",
-      "product_image": "https://example.com/sonywh1000xm5.jpg",
+      "product_image": "https://i.ibb.co.com/pvCq88v1/blue-headphones-isolated-white-background.jpg",
       "category": "Headphones",
       "price": 399.99,
       "description": "Sony WH-1000XM5 Noise Cancelling Wireless Headphones.",
@@ -49,7 +49,7 @@
     {
       "product_id": 4,
       "product_title": "Apple MacBook Pro M2",
-      "product_image": "https://example.com/macbookpro.jpg",
+      "product_image": "https://i.ibb.co.com/Mk14KLKQ/laptop-wooden-table.jpg",
       "category": "Laptops",
       "price": 1999.99,
       "description": "Apple MacBook Pro with M2 chip, 16GB RAM, 512GB SSD.",
@@ -65,7 +65,7 @@
     {
       "product_id": 5,
       "product_title": "ASUS ROG Strix Gaming Laptop",
-      "product_image": "https://example.com/asusrogstrix.jpg",
+      "product_image": "https://i.ibb.co.com/HT6VgmMw/laptop-pencils-arrangement.jpg",
       "category": "Laptops",
       "price": 1499.99,
       "description": "ASUS ROG Strix G16 Gaming Laptop with RTX 4070, 32GB RAM.",
@@ -82,7 +82,7 @@
     {
       "product_id": 6,
       "product_title": "Samsung Galaxy Watch 5",
-      "product_image": "https://example.com/galaxywatch5.jpg",
+      "product_image": "https://i.ibb.co.com/fYKLJvvw/cotton-wrist-band-smart-watch-earphone-white-background.jpg",
       "category": "Wearables",
       "price": 349.99,
       "description": "Samsung Galaxy Watch 5 with AMOLED display and health tracking.",
@@ -97,7 +97,7 @@
     {
       "product_id": 7,
       "product_title": "Dell XPS 15",
-      "product_image": "https://example.com/dellxps15.jpg",
+      "product_image": "https://i.ibb.co.com/WWv8dV0p/market-trends-concept-with-laptop.jpg",
       "category": "Laptops",
       "price": 1899.99,
       "description": "Dell XPS 15 with Intel i7, 16GB RAM, 512GB SSD.",
@@ -113,7 +113,7 @@
     {
       "product_id": 8,
       "product_title": "Sony PlayStation 5",
-      "product_image": "https://example.com/ps5.jpg",
+      "product_image": "https://i.ibb.co.com/Lhvh5zVZ/high-angle-gaming-setup-with-computer.jpg",
       "category": "Gaming",
       "price": 499.99,
       "description": "Sony PlayStation 5 with 825GB SSD and DualSense Controller.",
@@ -128,7 +128,7 @@
     {
       "product_id": 9,
       "product_title": "Samsung 55-inch QLED 4K TV",
-      "product_image": "https://example.com/samsungqled.jpg",
+      "product_image": "https://i.ibb.co.com/mFC2M2Bw/old-retro-tv-it-s-still-life-with-flower-vases-1.jpg",
       "category": "Television",
       "price": 899.99,
       "description": "Samsung 55-inch QLED 4K Smart TV with Quantum HDR.",
@@ -140,26 +140,12 @@
       "availability": true,
       "rating": 4.8
     },
-    {
-      "product_id": 10,
-      "product_title": "Canon EOS R6",
-      "product_image": "https://example.com/canoneosr6.jpg",
-      "category": "Cameras",
-      "price": 2499.99,
-      "description": "Canon EOS R6 Mirrorless Camera with 20MP Sensor and 4K Video.",
-      "Specification": {
-        "Sensor": "20MP Full-frame CMOS",
-        "Video": "4K UHD 60fps",
-        "Lens Mount": "RF Mount"
-      },
-      "availability": true,
-      "rating": 4.9
-    },
+    
   
     {
-      "product_id": 11,
+      "product_id": 10,
       "product_title": "Apple iPhone 15 Pro",
-      "product_image": "https://example.com/iphone15pro.jpg",
+      "product_image": "https://i.ibb.co.com/SDgym0gY/elegant-smartphone-composition.jpg",
       "category": "Smartphones",
       "price": 999.99,
       "description": "Apple iPhone 15 Pro with A17 Bionic chip, 6.1-inch OLED display.",
@@ -173,9 +159,9 @@
       "rating": 4.8
     },
     {
-      "product_id": 12,
+      "product_id": 11,
       "product_title": "Samsung Galaxy S24 Ultra",
-      "product_image": "https://example.com/galaxys24ultra.jpg",
+      "product_image": "https://i.ibb.co.com/gLTjXMLH/woman-holding-using-smartphone.jpg",
       "category": "Smartphones",
       "price": 1199.99,
       "description": "Samsung Galaxy S24 Ultra with Snapdragon 8 Gen 3, 200MP Camera.",
@@ -189,9 +175,9 @@
       "rating": 4.9
     },
     {
-      "product_id": 13,
+      "product_id": 12,
       "product_title": "Sony WH-1000XM5",
-      "product_image": "https://example.com/sonywh1000xm5.jpg",
+      "product_image": "https://i.ibb.co.com/BVsRG6gF/levitating-music-headphones-display.jpg",
       "category": "Headphones",
       "price": 399.99,
       "description": "Sony WH-1000XM5 Noise Cancelling Wireless Headphones.",
@@ -204,9 +190,9 @@
       "rating": 4.7
     },
     {
-      "product_id": 14,
+      "product_id": 13,
       "product_title": "Apple MacBook Pro M2",
-      "product_image": "https://example.com/macbookpro.jpg",
+      "product_image": "https://i.ibb.co.com/7J93dfqR/laptop-near-globe-stationery.jpg",
       "category": "Laptops",
       "price": 1999.99,
       "description": "Apple MacBook Pro with M2 chip, 16GB RAM, 512GB SSD.",
@@ -220,9 +206,9 @@
       "rating": 4.8
     },
     {
-      "product_id": 15,
+      "product_id": 14,
       "product_title": "ASUS ROG Strix Gaming Laptop",
-      "product_image": "https://example.com/asusrogstrix.jpg",
+      "product_image": "https://i.ibb.co.com/zzQ1Cnn/laptop-with-blank-black-screen-white-table.jpg",
       "category": "Laptops",
       "price": 1499.99,
       "description": "ASUS ROG Strix G16 Gaming Laptop with RTX 4070, 32GB RAM.",
@@ -237,9 +223,9 @@
       "rating": 4.6
     },
     {
-      "product_id": 16,
+      "product_id": 15,
       "product_title": "Logitech MX Master 3S",
-      "product_image": "https://example.com/mxmaster3s.jpg",
+      "product_image": "https://i.ibb.co.com/6JVwDWQK/travel-still-life-pack.jpg",
       "category": "Accessories",
       "price": 99.99,
       "description": "Logitech MX Master 3S Advanced Wireless Mouse.",
@@ -252,9 +238,9 @@
       "rating": 4.9
     },
     {
-      "product_id": 17,
+      "product_id": 16,
       "product_title": "Dell XPS 15",
-      "product_image": "https://example.com/dellxps15.jpg",
+      "product_image": "https://i.ibb.co.com/mVZNS7Pz/still-life-books-versus-technology.jpg",
       "category": "Laptops",
       "price": 1899.99,
       "description": "Dell XPS 15 with Intel i7, 16GB RAM, 512GB SSD.",
@@ -268,9 +254,9 @@
       "rating": 4.7
     },
     {
-      "product_id": 18,
+      "product_id": 17,
       "product_title": "Sony PlayStation 5",
-      "product_image": "https://example.com/ps5.jpg",
+      "product_image": "https://i.ibb.co.com/chkcTXDm/view-illuminated-neon-gaming-keyboard-setup-controller.jpg",
       "category": "Gaming",
       "price": 499.99,
       "description": "Sony PlayStation 5 with 825GB SSD and DualSense Controller.",
@@ -283,9 +269,9 @@
       "rating": 5.0
     },
     {
-      "product_id": 19,
+      "product_id": 18,
       "product_title": "Samsung 55-inch QLED 4K TV",
-      "product_image": "https://example.com/samsungqled.jpg",
+      "product_image": "https://i.ibb.co.com/G46zN9bX/old-retro-tv-it-s-still-life-with-flower-vases-2.jpg",
       "category": "Television",
       "price": 899.99,
       "description": "Samsung 55-inch QLED 4K Smart TV with Quantum HDR.",
@@ -298,9 +284,9 @@
       "rating": 4.8
     },
     {
-      "product_id": 20,
+      "product_id": 19,
       "product_title": "Bose QuietComfort Earbuds II",
-      "product_image": "https://example.com/boseearbuds.jpg",
+      "product_image": "https://i.ibb.co.com/84rVg8Lm/headphones-audio-listen.jpg",
       "category": "Headphones",
       "price": 279.99,
       "description": "Bose QuietComfort Earbuds II with Active Noise Cancelling.",
