@@ -25,7 +25,7 @@ export default function Detels() {
 
     return (
         <div>
-            <div className=" flex  h-[567px] w-[1100px] bg-base-100 shadow-xl">
+            <div className=" flex h-[500px] w-72 md:h-[567px] md:w-[1100px] bg-base-100 shadow-xl">
                 <div >
                     <figure><img className='h-[450px] rounded-lg w-[424px]' src={product_image} alt="Shoes" /></figure>
                 </div>
